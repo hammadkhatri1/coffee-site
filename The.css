@@ -1,0 +1,80 @@
+body{
+    font-family:Arial Rounded MT;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    background-color: antiquewhite;
+    font-weight: 60;
+    text-decoration: none;
+}
+
+.navbars{  
+    display: inline;
+    font-size: 25px;
+    font-family: sans-serif;
+     border-radius: 8px;
+    background-color:burlywood;
+}
+h1{
+    font-size: 40px;
+}
+header{
+    border-radius: 8px;
+    text-align:center;
+    background-color:coral;
+}
+
+.imgone{
+    max-width: 50%;
+    max-height: 60%;
+}
+
+.coffeeimages{
+    max-height: 250px;
+    max-width: 250px;
+    margin-right: 10px;
+}
+.seccolor{
+        margin-top: 10px;
+     border-radius: 8px;
+    background-color:beige;
+    text-decoration-line: underline;
+}
+.secside{
+    margin-left: 90px;
+}
+aside{
+    clear: both;
+    float: right;
+}
+footer{
+    margin-top: 10px;
+    background-color: floralwhite;
+    float: right;
+}
+.chillers{
+    font-size: 15px;
+    border-radius: 8px;
+    background-color:bisque ;
+    margin:10px 10px ;
+}
+.espresso{
+
+    font-size: 15px;
+    border-radius: 8px;
+    background-color: burlywood;
+    margin:10px 10px ;
+
+}
+table, th, td {
+  font-size: 15px;
+    border: 2px solid;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.coffeeheads{
+    margin-left: 10px;
+    text-decoration: underline;
+}
